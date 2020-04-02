@@ -4,7 +4,7 @@
 - Clone repository and install pre-requisites
     
     ```
-    git clone https://github.com/nitinaws/gt-custom-workflow.git
+    git clone https://github.com/avaneeshr/groundtruth-poc.git
     cd web
     yarn add react-text-annotate
     yarn build
